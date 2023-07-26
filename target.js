@@ -11,7 +11,7 @@ const targetValue = (number, target) => {
   return [];
 };
 
-const arr = [1, 3, 2, 6, 7];
+const arr = [1, 3, 2, 6, 8, 15];
 const targetNumber = 9;
 
 console.log(targetValue(arr, targetNumber));
