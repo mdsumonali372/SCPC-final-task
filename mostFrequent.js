@@ -10,7 +10,6 @@ const mostFrequent = (arr) => {
     }
     if (count > maxCount) {
       maxCount = count;
-      console.log(count);
       maxFreq = arr[i];
     }
   }
